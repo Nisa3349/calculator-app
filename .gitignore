@@ -8,7 +8,7 @@
 *.code-workspace
 
 # User-specific files
-*.docx
+
 
 # User-specific folders
 deploy/
